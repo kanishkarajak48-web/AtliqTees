@@ -1,0 +1,12 @@
+langchain==0.3.7
+langchain
+langchain-google-genai
+langchain-community
+python-dotenv
+tenacity
+pymysql
+SQLAlchemy
+streamlit
+postgres
+
+
